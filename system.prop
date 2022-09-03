@@ -1,0 +1,2 @@
+ro.boot.dynamic_partitions=true
+ro.boot.boot_devices=12100000.dwmmc0
